@@ -1,0 +1,20 @@
+# Framework de test
+pytest==8.0.0
+pytest-html==4.1.1
+pytest-xdist==3.5.0
+allure-pytest==2.13.2
+pytest-bdd==7.0.1
+pytest-rerunfailures==16.1
+
+# Automatisation Web
+playwright==1.42.0
+pytest-playwright==0.4.4
+
+# Accessibilité
+axe-playwright-python
+
+# Gestion des données
+Faker==22.0.0
+SQLAlchemy==2.0.25
+python-dotenv==1.0.0
+PyYAML==6.0.1
